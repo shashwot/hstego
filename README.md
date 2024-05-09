@@ -1,3 +1,10 @@
+Credits
+=======
+  
+  - Daniel Lerch
+    * [hstego](https://github.com/daniellerch/hstego)
+
+
 ## What is HStego?
 
 
