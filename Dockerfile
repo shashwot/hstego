@@ -21,4 +21,4 @@ COPY hstego hstego
 
 RUN chmod +x hstego
 
-ENTRYPOINT [ "/hstego/hstego"]
+ENTRYPOINT [ "/hstego/hstego" ]
